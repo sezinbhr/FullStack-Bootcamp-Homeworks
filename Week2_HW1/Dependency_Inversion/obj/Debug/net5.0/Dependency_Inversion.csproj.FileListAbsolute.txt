@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.exe
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.deps.json
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.runtimeconfig.json
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.dll
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\bin\Debug\net5.0\ref\Dependency_Inversion.dll
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\bin\Debug\net5.0\Dependency_Inversion.pdb
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.AssemblyInfo.cs
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.dll
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\ref\Dependency_Inversion.dll
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.pdb
+C:\Users\bahar\Desktop\Akbank_Fullstack\Dependency_Inversion\obj\Debug\net5.0\Dependency_Inversion.genruntimeconfig.cache
